@@ -38,9 +38,9 @@ A console-based shopping platform built in C++ as a Programming Fundamentals cou
 
 ```
 SecureShop/
-├── main.cpp          # Entry point, main menu
-├── customer.cpp/.h    # Customer features + shared helper/security functions
-├── employee.cpp/.h    # Employee features
+├── main.cpp            # Entry point, main menu
+├── customer.cpp/.h     # Customer features + shared helper/security functions
+├── employee.cpp/.h     # Employee features
 ├── admin.cpp/.h        # Admin features
 └── Products.txt        # Seed product data
 ```
