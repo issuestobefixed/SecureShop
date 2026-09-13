@@ -1,0 +1,10 @@
+P001|Laptop|75000|10|Electronics
+P002|Wireless Mouse|1500|50|Electronics
+P003|Mechanical Keyboard|2500|30|Electronics
+P004|USB Hub|800|40|Electronics
+P005|Monitor 24 inch|25000|15|Electronics
+P006|T-Shirt|800|100|Clothing
+P007|Jeans|2000|60|Clothing
+P008|Jacket|3500|25|Clothing
+P009|Notebook|150|200|Stationery
+P010|Pen Set|350|150|Stationery
